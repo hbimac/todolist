@@ -1,21 +1,18 @@
-import React from 'react';
+import React from "react";
 import './App.css';
 
-class App extends React.Component {
+class Bottom extends React.Component {
     render() {
         return (
             <div className="App">
                 <header>
                     <p>
-                        Hello, I am Mac.
+                        Hello, I am Bottom.
                     </p>
                 </header>
             </div>
         );
     }
 }
-
-export default App;
-
-
+export default Bottom;
 
